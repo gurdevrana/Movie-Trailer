@@ -1,6 +1,6 @@
 # Movie-trailer
 
-The project contains 4 files:
+The project contains 3 files:
 
 1.entertainment.py:It includes all the objects of class movie.These objects are the favourite movies.
 2.fresh_tomatoes.py:Provided by udacity.
