@@ -1,5 +1,5 @@
 class movie():
-    # the following function used for intializing the objects attributes
+    """ the following function used for intializing the objects attributes """
     def __init__(self,movie_title,movie_storyline,poster_image,trailer):
         # setting value of title to value passed
         self.title=movie_title
